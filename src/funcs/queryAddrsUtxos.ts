@@ -41,4 +41,5 @@ export async function queryAddrsUtxos( client: LocalStateQueryClient, addrs: Add
     logger.debug("queried utxos", result.length);
 
     return result;
+    
 }
