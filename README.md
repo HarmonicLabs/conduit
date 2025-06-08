@@ -2,4 +2,4 @@
 
 Conduit uses pure Typescript version of ouroboros-miniprotocols(@harmoniclabs/ouroboros-miniprotocols-ts) to connect to Cardano noes IPC socket and transmit the data directly over websockets right into your web browser.
 
-[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)](https://www.youtube.com/watch?v=1dMGIYvjdx0)
+[![Watch the video](https://www.youtube.com/embed/1dMGIYvjdx0)](https://www.youtube.com/watch?v=1dMGIYvjdx0)
